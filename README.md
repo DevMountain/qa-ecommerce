@@ -9,6 +9,6 @@
 
 # Design Requirements
 
-
+<img src="https://github.com/DevMountain/qa-ecommerce/blob/assets/Phase%201.png" />
 
 
