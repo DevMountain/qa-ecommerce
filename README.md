@@ -20,10 +20,11 @@
 * The background color of pages should be `#FFF`.
 * The background color of the Header should be `#FFF`.
 * The background color of the Header's buttons should be `#6C5ACC`.
-* The header should have 2px `#6C5ACC` border-bottom.
+* The header should have `2px` `#6C5ACC` border on the bottom.
 * The header should use a box-shadow with the following values: 
   * `0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.12), 0 0 2px 0 rgba(0, 0, 0, 0.14);`
 * The Header's buttons should have a font size of `18px`.
 * The Header should display our company's icon and title on the left side of the Header.
 * The company's title should have a font size of `24px`.
 * The compnay's logo should be `28px` wide and `28px` tall.
+* The Header should display navigation buttons on the right side of the Header.
