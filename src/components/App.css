@@ -1,28 +1,21 @@
-.App {
-  text-align: center;
+@import url("https://use.typekit.net/poe7tgk.css");
+
+.App__parent {
+  min-width: 1366px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.App__content-container {
+  width: 100%;
+  min-height: calc( 100vh - 50px );
+  box-sizing: border-box;
+  padding: 0px 250px;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.App__content {
+  background-color: #FFF;
+  min-height: calc( 100vh - 50px );
+  position: relative;
+  z-index: 1;
+  padding: 32px;
+  box-sizing: border-box;
 }

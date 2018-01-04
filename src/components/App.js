@@ -10,10 +10,14 @@ import Header from './Header/Header';
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="App__parent">
         <Header />
 
-        { router }
+        <div className="App__content-container">
+          <section className="App__content">
+            { router }
+          </section>
+        </div>
       </div>
     );
   }
