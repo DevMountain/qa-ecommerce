@@ -1,4 +1,4 @@
-<img src="https://github.com/DevMountain/qa-ecommerce/blob/assets/company_logo.png" />
+![](https://github.com/DevMountain/qa-ecommerce/blob/assets/company_logo.png | width=150)
 
 # Functional Requirements
 
