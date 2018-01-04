@@ -1,4 +1,4 @@
-<img src="" /> Marble
+<img src="https://github.com/DevMountain/qa-ecommerce/blob/assets/icon.png" /> Marble
 
 # Functional Requirements
 
