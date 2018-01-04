@@ -1,4 +1,3 @@
-![](https://github.com/DevMountain/qa-ecommerce/blob/assets/company_logo.png | width=150)
 <img src="https://github.com/DevMountain/qa-ecommerce/blob/assets/company_logo.png" width="150" height="50" />
 
 # Functional Requirements
