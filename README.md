@@ -13,6 +13,7 @@
 * Right click and select "Open image in a new tab" for the most detailed view.
 
 <br />
+<br />
 
 * The background color of the website should be `#F2F2F2`.
 * The background color of pages should be `#FFF`.
