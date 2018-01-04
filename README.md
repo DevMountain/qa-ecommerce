@@ -9,7 +9,7 @@
 
 # Design Requirements
 
-<img src="https://github.com/DevMountain/qa-ecommerce/blob/assets/phase_1.png" />
+<img src="https://github.com/DevMountain/qa-ecommerce/blob/assets/phase_1.jpg" />
 
 * The background color of the website should be `#F2F2F2`.
 * The background color of pages should be `#FFF`.
